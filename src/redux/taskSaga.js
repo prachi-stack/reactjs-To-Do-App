@@ -3,7 +3,7 @@ import axios from 'axios';
 import { fetchWeatherSuccess, fetchWeatherFailure, fetchWeatherRequest } from './taskSlice';
 
 
-const API_KEY = "77308d400dc6541850d2ad31b5f18dd0";
+const API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
 
 // Function to call the weather API
 function* fetchWeatherSaga() {
