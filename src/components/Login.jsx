@@ -40,7 +40,7 @@ const Login = () => {
     };
 
     return (
-        <div className="flex justify-center min-h-screen p-4">
+        <div className="flex justify-center items-center min-h-screen p-4">
             {/* Card container for login form */}
             <Card className="w-full max-w-sm md:max-w-md lg:max-w-lg shadow-lg">
                 <CardContent className="p-6">
