@@ -57,10 +57,10 @@ Redux-Saga is used for handling asynchronous side effects such as fetching weath
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/login.jpg)
+![Home Screen](login.jpg)
 
 ### Task List
-![Task List](screenshots/home.jpg)
+![Task List](home.jpg)
 
 ## Deployment
 The app is deployed on Render. You can access it here:
